@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/duki/static/css/main.9033663c.css",
+    "main.js": "/duki/static/js/main.8d1a851b.js",
+    "static/js/787.b55283fd.chunk.js": "/duki/static/js/787.b55283fd.chunk.js",
+    "static/media/disco2.mp4": "/duki/static/media/disco2.0ab6f37adfe7d0a828c6.mp4",
+    "static/media/videoD.mp4": "/duki/static/media/videoD.d2718a83eab97fd88a2b.mp4",
+    "index.html": "/duki/index.html",
+    "main.9033663c.css.map": "/duki/static/css/main.9033663c.css.map",
+    "main.8d1a851b.js.map": "/duki/static/js/main.8d1a851b.js.map",
+    "787.b55283fd.chunk.js.map": "/duki/static/js/787.b55283fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9033663c.css",
+    "static/js/main.8d1a851b.js"
+  ]
+}
